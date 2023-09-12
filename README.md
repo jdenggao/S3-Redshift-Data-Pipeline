@@ -9,10 +9,10 @@ Sparkify requires that the source data resides in S3 and the source datasets con
 #### 1. Creation of Virtual Environment
 Created a virtual environment in WSL. It will keep its libraries and dependencies separate from the global and any other project libraries to avoid any conflict between them.
 #### 2. Designed Data Pipeling
-2.1 Loading data from S3 to Staging tables in Redshift.
-2.2 Loading data from staging tables to Fact table.
-2.3 Loading data from staging tables to Dimension table.
-2.4 Performing data quality checks
+2.1 Loading data from S3 to Staging tables in Redshift.<br>
+2.2 Loading data from staging tables to Fact table.<br>
+2.3 Loading data from staging tables to Dimension table.<br>
+2.4 Performing data quality checks.<br>
 #### 3. Automate the whole process using Airflow.
 ![image](https://github.com/jdenggao/S3-Redshift-Data-Pipeline/assets/112433825/8e2a98a3-cf9a-4fb2-a26e-21d8bd78c627)
 ### Technologies Used
