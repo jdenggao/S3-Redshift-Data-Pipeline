@@ -1,4 +1,4 @@
-# S3-Redshift-Data-Pipeline
+# From S3 to Redshift Data Pipeline (S3, Redshift, Airflow)
 ### Introduction
 The music streaming company, Sparkify, has decided to use Apache Airflow to automate and monitor their ETL pipelines.
 
